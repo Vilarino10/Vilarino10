@@ -1,6 +1,6 @@
 # Olá! Eu sou Marcos Vilarino 👋
 
-🎓 Estudante de Engenharia de Software
+🎓 Estudante de Ciências da Computação
 
 Atualmente estou estudando desenvolvimento web e mobile utilizando JavaScript.
 
