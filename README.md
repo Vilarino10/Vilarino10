@@ -16,7 +16,7 @@ Atualmente estou estudando desenvolvimento web e mobile utilizando JavaScript.
 ## 📚 Atualmente
 
 - Bootcamp GoStack
-- Faculdade de Engenharia de Software
+- Faculdade de Ciências da Computação
 
 ## 🎯 Objetivo
 
